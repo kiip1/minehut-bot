@@ -1,0 +1,14 @@
+{
+  "name": "minehut-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that implements the Minehut API.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ."
+  }
+}
